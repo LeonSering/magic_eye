@@ -46,4 +46,8 @@ python3 with pip
 
 # Obtain Depth Perception
 
-To obtain the depth perception you have squint wall-eyed (meaning you have to focus behind the screen). The easiest way to achieve make the magic_eye picture about 30 - 40 cm wide and put your face close to the screen (about 40 cm). Try to focus behind the screen to see the effect. Then you can slowly move back to a comfortable position. 
+To obtain the depth perception you have to squint your eyes in the "wall-eyed"-way (meaning that you have to focus behind the screen). 
+The easiest way to achieve this is to make the magic_eye picture about 30 - 40 cm wide on the screen and then put your face close to 
+the to it (a distance of 40 cm should work). Try to focus behind the screen to see the effect. If it does not work, get closer to the screen.
+As soon as you have the depth perception you can slowly move back to a comfortable position.
+With a bit of training it is easy to achieve from all distances.
