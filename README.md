@@ -8,7 +8,7 @@ As a child I was fascinated from the [Magic Eye Book](https://en.wikipedia.org/w
 
 python3 with pip
 
-# Installation
+# Install
 
 1) Set up an python virtual environment
    
