@@ -44,7 +44,7 @@ python3 with pip
 
 3. Run python main.py to create the "magic_eye.png".
 
-# Obtain Depth Perception
+# Depth Perception
 
 To obtain the depth perception you have to squint your eyes in the "wall-eyed"-way (meaning that you have to focus behind the screen). 
 The easiest way to achieve this is to make the magic_eye picture about 30 - 40 cm wide on the screen and then put your face close to 
