@@ -1,8 +1,8 @@
 # 
 
-This is a small python3 script to create a [autostereogram]([Autostereogram - Wikipedia](https://en.wikipedia.org/wiki/Autostereogram)). 
+This is a small python3 script to create a [autostereogram](https://en.wikipedia.org/wiki/Autostereogram). 
 
-As a child I was fascinated from the [Magic Eye Book]([Magic Eye - Wikipedia](https://en.wikipedia.org/wiki/Magic_Eye)) and much later I was eager to figure out how this depth perception actually works. The result was this small script which I used to "impress" my co-workers and my girlfriend in a nerdy way. ;-)
+As a child I was fascinated from the [Magic Eye Book](https://en.wikipedia.org/wiki/Magic_Eye) and much later I was eager to figure out how this depth perception actually works. The result was this small script which I used to "impress" my co-workers and my girlfriend in a nerdy way. ;-)
 
 # Requirements
 
